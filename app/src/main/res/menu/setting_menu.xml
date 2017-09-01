@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--
+
+
+    <item
+        android:id="@+id/text_size"
+        android:icon="@drawable/ic_text_size"
+        android:title="@string/text_size"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share"
+        android:title="@string/share"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/read_model"
+        android:icon="@drawable/ic_day_read_model"
+        android:title="@string/night_model"
+        app:showAsAction="never" />
+     -->
+
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_setting"
+        android:title="@string/setting"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_about"
+        android:title="关于我们"
+        app:showAsAction="never" />
+
+
+</menu>

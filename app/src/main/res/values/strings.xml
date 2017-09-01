@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyReader</string>
+
+    <string name="everyday_title">每日一文</string>
+
+
+    <string name="backup">收藏</string>
+    <string name="un_backup">取消收藏</string>
+    <string name="share">分享</string>
+    <string name="text_size">正文字号</string>
+    <string name="day_model">日间模式</string>
+    <string name="night_model">夜间模式</string>
+    <string name="setting">设置</string>
+    <string name="exist_again">再按一次退出程序</string>
+    <string name="collected_article">收藏的文章</string>
+</resources>
